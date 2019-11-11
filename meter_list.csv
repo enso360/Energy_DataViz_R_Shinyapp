@@ -1,0 +1,40 @@
+meter_id,meter_name,collection_name
+0,Test Data,test_data
+1,KReSIT Mains,power_k_m
+2,KReSIT AC,power_k_a
+3,KReSIT Power Sockets,power_k_p
+6,Wing C Lights,power_k_wc_l
+4,Wing C AC,power_k_wc_a
+5,Wing C Power Sockets,power_k_wc_p
+7,Wing C Floor 2 Lights,power_k_f2_l
+8,Wing C Floor 2 AC,power_k_f2_a
+9,Wing C Floor 2 Power Sockets,power_k_f2_p
+10,Yahoo Cluster Power Sockets,power_k_yc_p
+11,Yahoo Cluster AC,power_k_yc_a
+12,Server Room AC,power_k_sr_a
+13,Server Room Power Sockets,power_k_sr_p
+14,ERTS Lab Power Sockets,power_k_erts_p
+15,ERTS Lab Lights,power_k_erts_l
+16,ERTS Lab AC,power_k_erts_a
+17,F C Kohli AC,power_k_fck_a
+18,F C Kohli Lights,power_k_fck_l
+20,Office Lights,power_k_off_l
+21,Office AC,power_k_off_a
+22,Conference Room AC,power_k_cr_a
+23,Conference Room Power Sockets,power_k_cr_p
+24,Circular Hall Power Sockets 1,power_k_ch_p1
+25,Circular Hall Power Sockets 2,power_k_ch_p2
+26,Circular Hall Lights,power_k_ch_l
+27,DIL Lights,power_k_dil_l
+28,DIL AC,power_k_dil_a
+29,DIL Power Sockets,power_k_dil_p
+30,Classroom ODU 1,power_k_clsrm_ac1
+31,Classroom ODU 2,power_k_clsrm_ac2
+32,Classroom ODU 3,power_k_clsrm_ac3
+33,Circular Hall AC,power_k_ch_a
+34,LAB ODU 1,power_k_lab_od1
+35,LAB ODU 2,power_k_lab_od2
+36,LAB ODU 3,power_k_lab_od3
+39,SEIL AC,power_k_seil_a
+37,SEIL Power Sockets,power_k_seil_p
+38,SEIL Lights,power_k_seil_l
